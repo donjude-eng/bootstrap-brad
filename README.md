@@ -2,6 +2,27 @@
 
 Master Bootstrap 4 and build 5 real world themes while learning HTML5 semantics & CSS3
 
+# Bootstrap/ basic file structure
+
+```
+├── css/
+│ ├── bootstrap.css
+│ ├── bootstrap.css.map
+│ ├── bootstrap.min.css
+│ ├── bootstrap-theme.css
+│ ├── bootstrap-theme.css.map
+│ └── bootstrap-theme.min.css
+├── js/
+│ ├── bootstrap.js
+│ └── bootstrap.min.js
+└── fonts/
+├── glyphicons-halflings-regular.eot
+├── glyphicons-halflings-regular.svg
+├── glyphicons-halflings-regular.ttf
+├── glyphicons-halflings-regular.woff
+└── glyphicons-halflings-regular.woff2
+```
+
 # About bootstrap
 
 - Open source front-end framework for fast web development.
@@ -96,3 +117,8 @@ Master Bootstrap 4 and build 5 real world themes while learning HTML5 semantics 
   2.  md - Medium
   3.  lg - large
   4.  xl - xtra large
+
+# Important Notes
+
+- clearfix will claer the float in between.
+- If we want to change the color for links , the class should be in the link.
