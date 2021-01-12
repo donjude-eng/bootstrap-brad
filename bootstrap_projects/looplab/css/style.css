@@ -47,5 +47,8 @@ body {
     color: #fff;
     padding: 5px;
     border-radius: 5px;
+}
 
+.paddingbot {
+    padding: 20px;
 }
